@@ -6,7 +6,7 @@
 
 * **[Blog topics](#blogs)**
 
-* **[Astronomy Applications](#Astronomy-Applications)**
+* **[Astronomy Applications](#astronomy-applications)**
 
 * **[Courses](#courses)**  
 
