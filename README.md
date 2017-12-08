@@ -6,7 +6,7 @@
 
 * **[Blog topics](#blogs)**
 
-* **[Astronomy applications](#Astronomy-applications)**
+* **[Astronomy Applications](#Astronomy Applications)**
 
 * **[Courses](#courses)**  
 
@@ -48,8 +48,8 @@
 
 ### Astronomy Applications
 * [Information Retrieval and Recommendation System for Astronomical Observatories](https://arxiv.org/abs/1710.05350)
-* [Strong Gravitational Lenses with Convolutional Neural Networks](https://arxiv.org/abs/1708.08842)
-* [Deep CNN as strong gravitational lens detectors](https://arxiv.org/abs/1705.07132)
+* [Strong Gravitational Lenses with Convolutional Neural Networks (A&A)](https://arxiv.org/abs/1708.08842)
+* [Deep CNN as strong gravitational lens detectors (Nature)](https://arxiv.org/abs/1705.07132)
 
 ### Courses
 
