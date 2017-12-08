@@ -6,6 +6,8 @@
 
 * **[Blog topics](#blogs)**
 
+* **[Astronomy applications](#Astronomy-applications)**
+
 * **[Courses](#courses)**  
 
 * **[Videos and Lectures](#videos-and-lectures)**  
@@ -43,6 +45,11 @@
 2. [Nuts and Bolts of Applying Deep Learning](https://kevinzakka.github.io/2016/09/26/applying-deep-learning/) By Kevin Zakka
 3. [Deep Learning Paper Implementations: Spatial Transformer Networks - Part II](https://kevinzakka.github.io/2017/01/18/stn-part2/) By Kevin Zakka
 4. [Yann LeCun's response to 'Alchemy'](https://www.facebook.com/yann.lecun/posts/10154938130592143) By Yann LeCun
+
+### Astronomy Applications
+* [Information Retrieval and Recommendation System for Astronomical Observatories](https://arxiv.org/abs/1710.05350)
+* [Strong Gravitational Lenses with Convolutional Neural Networks](https://arxiv.org/abs/1708.08842)
+* [Deep CNN as strong gravitational lens detectors](https://arxiv.org/abs/1705.07132)
 
 ### Courses
 
