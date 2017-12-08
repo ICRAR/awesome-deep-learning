@@ -29,7 +29,7 @@
 
 ### Free Online Books
 
-1.  [Deep Learning](http://www.deeplearningbook.org/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
+1.  [Deep Learning](http://www.deeplearningbook.org/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (16/12/2016)
 2.  [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by  Michael Nielsen (Dec 2014)
 3.  [Deep Learning](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) by Microsoft Research (2013)
 4.  [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf) by LISA lab, University of Montreal (Jan 6 2015)
@@ -40,6 +40,8 @@
 
 ### Blogs
 1. [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html) By Sebastian Ruder
+2. [Nuts and Bolts of Applying Deep Learning](https://kevinzakka.github.io/2016/09/26/applying-deep-learning/) By Kevin Zakka
+3. [Deep Learning Paper Implementations: Spatial Transformer Networks - Part II](https://kevinzakka.github.io/2017/01/18/stn-part2/) By Kevin Zakka
 
 ### Courses
 
@@ -73,7 +75,7 @@
 26. [Practical Deep Learning For Coders](http://course.fast.ai/) by Jeremy Howard - Fast.ai
 
 ### Videos and Lectures
-1.  [Best Videos on How Neural Network works](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) By 3Blue1Brown
+1.  [The Best Videos on How Neural Networks Work ](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) By 3Blue1Brown
 2.  [How To Create A Mind](https://www.youtube.com/watch?v=RIkxVci-R4k) By Ray Kurzweil
 3.  [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) By Andrew Ng
 4.  [Recent Developments in Deep Learning](https://www.youtube.com/watch?v=vShMxxqtDDs&amp;index=3&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) By Geoff Hinton
@@ -92,6 +94,8 @@
 17.  [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M) by Steve Jurvetson (and panel) at VLAB in Stanford.
 18. [Introduction to Artificial Neural Networks and Deep Learning](https://www.youtube.com/watch?v=FoO8qDB8gUU) by Leo Isikdogan at Motorola Mobility HQ
 19. [NIPS 2016 lecture and workshop videos](https://nips.cc/Conferences/2016/Schedule) - NIPS 2016
+20. [Nuts and Bolts of Applying Deep Learning](https://www.youtube.com/watch?v=F1ka6a13S9I) by Andrew Ng
+21. [What is wrong with convolutional neural nets? (and the Capsule Networks)](https://www.youtube.com/watch?v=rTawFwUvnLE) by Geoffrey Hinton
 
 ### Papers
 *You can also find the most cited deep learning papers from [here](https://github.com/terryum/awesome-deep-learning-papers)*
